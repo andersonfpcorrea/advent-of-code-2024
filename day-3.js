@@ -31,7 +31,7 @@ const dontPattern = {
   6: (s) => s === ")",
 };
 
-const mulChars = Array(7).fill(0);
+const mulChars = Array(8).fill(0);
 const doChars = Array(4);
 const dontChars = Array(7);
 let mulPointer = 0;
